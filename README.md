@@ -160,6 +160,3 @@ Full interactive API docs available at `/docs` (Swagger UI).
 ## License
 
 MIT License - Built for Hackathon Prototype
-
-
-MIT License - Built for Hackathon Prototype
